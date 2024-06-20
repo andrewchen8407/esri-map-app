@@ -1,0 +1,13 @@
+html, body, #root, .App {
+  margin: 0;
+  padding: 0;
+  height: 1000px;
+  width: 1000px;
+  overflow: hidden;
+}
+
+.map-view {
+  height: 600px; /* Fixed height */
+  width: 800px;  /* Fixed width */
+  position: relative;
+}
